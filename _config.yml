@@ -3,7 +3,7 @@
 # ----------------------- #
 
 url: http://www.siddhaarth.com
-title: Your Awesome Site
+title: Personal site of Sid Rajkumar
 email: your-email@domain.com
 description: > # "Write an awesome description for your new site here.
   You can edit this line in _config.yml. It will appear in your document
@@ -29,3 +29,5 @@ social:
     url: https://github.com/IronSummitMedia/startbootstrap
   - title: linkedin
     url:
+  - title: facebook
+    url: https://www.facebook.com/siddhaarth.rajkumar
