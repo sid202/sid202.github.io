@@ -28,10 +28,14 @@ social:
 #  - title: github
 #    url: https://github.com/IronSummitMedia/startbootstrap
   - title: photography
+    icon: camera
     url: http://photography.siddhaarth.com
   - title: linkedin
+    icon: linkedin
     url: https://www.linkedin.com/in/siddhaarth22
   - title: facebook
+    icon: facebook
     url: https://www.facebook.com/siddhaarth.rajkumar
   - title: instagram
+    icon: instagram
     url: https://instagram.com/siddhaarth_rajkumar/
