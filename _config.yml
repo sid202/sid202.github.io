@@ -4,7 +4,7 @@
 
 url: http://www.siddhaarth.com
 title: Personal site of Sid Rajkumar
-email: your-email@domain.com
+email: siddhaarth@gmail.com
 description: > # "Write an awesome description for your new site here.
   You can edit this line in _config.yml. It will appear in your document
   head meta (for Google search results) and in your feed.xml site
@@ -28,7 +28,7 @@ social:
 #  - title: github
 #    url: https://github.com/IronSummitMedia/startbootstrap
   - title: linkedin
-    url: www.linkedin.com/in/siddhaarth22
+    url: https://www.linkedin.com/in/siddhaarth22
   - title: facebook
     url: https://www.facebook.com/siddhaarth.rajkumar
   - title: instagram
