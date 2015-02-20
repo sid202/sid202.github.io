@@ -1,9 +1,7 @@
-# Landing Page Jekyll theme
-
-Jekyll theme based on [landing-page bootstrap theme ](http://startbootstrap.com/templates/landing-page/)
+# Personal site of Siddhaarth Rajkumar
 
 ## How to use
- - Place a image in `/img/services/`
+ - [View here.](http:www.siddhaarth.com)
  - Create posts to display your services. Use the follow as an example:
 
 ```txt
